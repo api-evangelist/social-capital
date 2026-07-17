@@ -1,0 +1,60 @@
+generated: '2026-07-17'
+method: derived
+source_vc: social-capital
+leads:
+- name: Palmetto
+  url: https://palmetto.com
+  suggested_slug: palmetto
+  sector: clean-energy
+  source_vc: social-capital
+  source: https://www.socialcapital.com/about
+  stub_created: false
+- name: Beast Industries
+  url: https://www.mrbeast.com
+  suggested_slug: beast-industries
+  sector: creator-economy
+  source_vc: social-capital
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  stub_created: false
+- name: Clover Health
+  url: https://www.cloverhealth.com
+  suggested_slug: clover-health
+  sector: healthcare
+  source_vc: social-capital
+  source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+  stub_created: false
+- name: Virgin Galactic
+  url: https://www.virgingalactic.com
+  suggested_slug: virgin-galactic
+  sector: space
+  source_vc: social-capital
+  source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+  stub_created: false
+- name: UrbanFootprint
+  url: https://urbanfootprint.com
+  suggested_slug: urbanfootprint
+  sector: climate
+  source_vc: social-capital
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  stub_created: false
+- name: LotusFlare
+  url: https://lotusflare.com
+  suggested_slug: lotusflare
+  sector: telecom
+  source_vc: social-capital
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  stub_created: false
+- name: Swarm Technologies
+  url: https://swarm.space
+  suggested_slug: swarm-technologies
+  sector: space
+  source_vc: social-capital
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  stub_created: false
+- name: InstaEDU
+  url: https://www.chegg.com
+  suggested_slug: instaedu
+  sector: education
+  source_vc: social-capital
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  stub_created: false

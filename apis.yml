@@ -1,0 +1,76 @@
+aid: social-capital
+name: Social Capital
+description: >-
+  Social Capital is a technology investment firm founded in 2011 by Chamath Palihapitiya (a former
+  Facebook executive) and headquartered in Palo Alto, California, with co-founders Mamoon Hamid and Ted
+  Maidenberg. Originally a traditional venture fund that stood out by backing healthcare, financial
+  services, education, and other hard, regulated sectors the VC community had neglected, the firm pivoted
+  in 2018 into a technology holding company that stopped accepting outside capital and now invests from
+  its own permanent balance sheet of roughly $2.1B, aiming to "earn like Berkshire Hathaway and invest
+  like the Red Cross." Its thesis targets multiple emerging $10T markets across deep tech commercialization,
+  life sciences and drug discovery, the global energy transition, and creator-economy media. Chamath became
+  known as the "SPAC King" for taking companies public through the Social Capital Hedosophia (IPOA-IPOF)
+  vehicles, including Virgin Galactic, Opendoor, Clover Health, and SoFi. Notable investments include
+  Slack, Box, SurveyMonkey, Wealthfront, Netskope, Intercom, Groq, Palmetto, Saildrone, and Relativity Space.
+image: https://www.socialcapital.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Technology Holding Company
+  - Seed
+  - Series A
+  - Growth Equity
+  - Artificial Intelligence
+  - Fintech
+  - Healthcare
+  - Climate
+  - Clean Energy
+  - Deep Tech
+  - Space
+  - Creator Economy
+  - SPAC
+  - Palo Alto
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://www.socialcapital.com/
+  - type: InvestmentThesis
+    url: https://www.socialcapital.com/about
+  - type: Portfolio
+    url: portfolio/social-capital-portfolio.yml
+  - type: Newsletter
+    url: https://chamath.substack.com/
+  - type: Blog
+    url: https://www.socialcapital.com/annual-letters
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/the-social-capital-partnership
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/social-capital/
+  - type: Twitter
+    url: https://twitter.com/chamath
+  - type: Features
+    data:
+      - 'Stage: Multi-stage; early venture through growth, plus outright acquisitions (holding-company model since 2018)'
+      - 'Sectors: deep tech, life sciences / drug discovery, energy transition / climate, fintech, healthcare, AI, space, creator economy'
+      - 'Geography: primarily United States / global technology'
+      - 'AUM: ~$2.1B permanent balance sheet (self-reported; no outside capital since 2018)'
+      - 'Founded: 2011'
+      - 'Founders: Chamath Palihapitiya, Mamoon Hamid, Ted Maidenberg'
+      - 'HQ: Palo Alto, California, USA'
+    sources:
+      - https://www.socialcapital.com/about
+      - https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Social Capital
+    url: https://www.socialcapital.com/

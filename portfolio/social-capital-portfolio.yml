@@ -1,0 +1,237 @@
+generated: '2026-07-17'
+method: searched
+source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+summary:
+  portfolio_total: 21
+  in_network: 13
+  api_providers: 8
+  missing: 8
+  stubs_created: 0
+companies:
+- name: Slack
+  url: https://slack.com
+  description: Enterprise team messaging and collaboration platform.
+  sector: enterprise-software
+  stage: growth
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  slug: slack
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Box
+  url: https://www.box.com
+  description: Cloud content management and file sharing for enterprises.
+  sector: enterprise-software
+  stage: growth
+  status: ipo
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  slug: box
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SurveyMonkey
+  url: https://www.surveymonkey.com
+  description: Online survey and experience management software.
+  sector: saas
+  stage: growth
+  status: ipo
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  slug: surveymonkey
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wealthfront
+  url: https://www.wealthfront.com
+  description: Automated investing and robo-advisor personal finance platform.
+  sector: fintech
+  stage: growth
+  status: ipo
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  slug: wealthfront
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Netskope
+  url: https://www.netskope.com
+  description: Cloud security and secure access service edge (SASE) platform.
+  sector: security
+  stage: growth
+  status: ipo
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  slug: netskope
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Intercom
+  url: https://www.intercom.com
+  description: Customer messaging and support platform.
+  sector: saas
+  stage: growth
+  status: active
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  slug: intercom
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Groq
+  url: https://groq.com
+  description: AI inference chips and low-latency LLM inference cloud.
+  sector: ai
+  stage: growth
+  status: active
+  source: https://www.socialcapital.com/about
+  slug: groq
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Palmetto
+  url: https://palmetto.com
+  description: Clean-energy marketplace for residential solar and electrification.
+  sector: clean-energy
+  stage: growth
+  status: active
+  source: https://www.socialcapital.com/about
+  in_network: false
+  is_api_provider: false
+  suggested_slug: palmetto
+- name: Beast Industries
+  url: https://www.mrbeast.com
+  description: MrBeast's creator-economy media and consumer products company.
+  sector: creator-economy
+  stage: growth
+  status: active
+  source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beast-industries
+- name: SoFi
+  url: https://www.sofi.com
+  description: Consumer fintech and next-generation digital financial services platform.
+  sector: fintech
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+  slug: sofi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Opendoor
+  url: https://www.opendoor.com
+  description: Online real estate iBuyer for buying and selling homes.
+  sector: real-estate-tech
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  slug: opendoor
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Clover Health
+  url: https://www.cloverhealth.com
+  description: Medicare Advantage health insurance powered by a data platform.
+  sector: healthcare
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clover-health
+- name: Virgin Galactic
+  url: https://www.virgingalactic.com
+  description: Commercial human spaceflight and space tourism company.
+  sector: space
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
+  in_network: false
+  is_api_provider: false
+  suggested_slug: virgin-galactic
+- name: Saildrone
+  url: https://www.saildrone.com
+  description: Autonomous ocean-going drones for maritime data and climate monitoring.
+  sector: climate
+  stage: series-c
+  status: active
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  slug: saildrone
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Relativity Space
+  url: https://www.relativityspace.com
+  description: 3D-printed rockets and autonomous rocket factory for launch.
+  sector: space
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  slug: relativity-space
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: UrbanFootprint
+  url: https://urbanfootprint.com
+  description: Urban planning and climate-resilience data intelligence platform.
+  sector: climate
+  stage: series-b
+  status: active
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  in_network: false
+  is_api_provider: false
+  suggested_slug: urbanfootprint
+- name: LotusFlare
+  url: https://lotusflare.com
+  description: Cloud-native digital commerce platform for telecom operators.
+  sector: telecom
+  stage: growth
+  status: active
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lotusflare
+- name: Wave
+  url: https://www.waveapps.com
+  description: Accounting, invoicing, and financial software for small businesses.
+  sector: fintech
+  stage: series-b
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  slug: wave-financial
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Yammer
+  url: https://www.yammer.com
+  description: Enterprise social networking service.
+  sector: enterprise-software
+  stage: series-b
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  slug: microsoft-yammer
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Swarm Technologies
+  url: https://swarm.space
+  description: Low-cost satellite network for global IoT connectivity.
+  sector: space
+  stage: series-a
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  in_network: false
+  is_api_provider: false
+  suggested_slug: swarm-technologies
+- name: InstaEDU
+  url: https://www.chegg.com
+  description: Online tutoring marketplace (acquired by Chegg).
+  sector: education
+  stage: series-a
+  status: acquired
+  source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
+  in_network: false
+  is_api_provider: false
+  suggested_slug: instaedu
