@@ -12,6 +12,17 @@ description: >-
   known as the "SPAC King" for taking companies public through the Social Capital Hedosophia (IPOA-IPOF)
   vehicles, including Virgin Galactic, Opendoor, Clover Health, and SoFi. Notable investments include
   Slack, Box, SurveyMonkey, Wealthfront, Netskope, Intercom, Groq, Palmetto, Saildrone, and Relativity Space.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.socialcapital.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital

@@ -3,9 +3,9 @@ method: searched
 source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
 summary:
   portfolio_total: 21
-  in_network: 13
-  api_providers: 8
-  missing: 8
+  in_network: 21
+  api_providers: 9
+  missing: 0
   stubs_created: 0
 companies:
 - name: Slack
@@ -92,9 +92,10 @@ companies:
   stage: growth
   status: active
   source: https://www.socialcapital.com/about
-  in_network: false
-  is_api_provider: false
-  suggested_slug: palmetto
+  in_network: true
+  is_api_provider: true
+  slug: palmetto
+  matched_by: domain
 - name: Beast Industries
   url: https://www.mrbeast.com
   description: MrBeast's creator-economy media and consumer products company.
@@ -102,9 +103,10 @@ companies:
   stage: growth
   status: active
   source: https://www.cbinsights.com/research/social-capital-teardown-analysis/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beast-industries
+  slug: beast-industries
+  matched_by: domain
 - name: SoFi
   url: https://www.sofi.com
   description: Consumer fintech and next-generation digital financial services platform.
@@ -137,9 +139,10 @@ companies:
   status: ipo
   lead: true
   source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
-  in_network: false
-  is_api_provider: false
-  suggested_slug: clover-health
+  in_network: true
+  is_api_provider: true
+  slug: clover-health
+  matched_by: domain
 - name: Virgin Galactic
   url: https://www.virgingalactic.com
   description: Commercial human spaceflight and space tourism company.
@@ -148,9 +151,10 @@ companies:
   status: ipo
   lead: true
   source: https://en.wikipedia.org/wiki/Chamath_Palihapitiya
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: virgin-galactic
+  slug: virgin-galactic
+  matched_by: domain
 - name: Saildrone
   url: https://www.saildrone.com
   description: Autonomous ocean-going drones for maritime data and climate monitoring.
@@ -171,7 +175,7 @@ companies:
   source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
   slug: relativity-space
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: UrbanFootprint
   url: https://urbanfootprint.com
@@ -180,9 +184,10 @@ companies:
   stage: series-b
   status: active
   source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: urbanfootprint
+  slug: urbanfootprint
+  matched_by: domain
 - name: LotusFlare
   url: https://lotusflare.com
   description: Cloud-native digital commerce platform for telecom operators.
@@ -190,9 +195,10 @@ companies:
   stage: growth
   status: active
   source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lotusflare
+  slug: lotusflare
+  matched_by: domain
 - name: Wave
   url: https://www.waveapps.com
   description: Accounting, invoicing, and financial software for small businesses.
@@ -222,9 +228,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: swarm-technologies
+  slug: swarm
+  matched_by: domain
 - name: InstaEDU
   url: https://www.chegg.com
   description: Online tutoring marketplace (acquired by Chegg).
@@ -232,6 +239,7 @@ companies:
   stage: series-a
   status: acquired
   source: https://en.wikipedia.org/wiki/Social_Capital_(venture_capital)
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: instaedu
+  slug: chegg
+  matched_by: domain
